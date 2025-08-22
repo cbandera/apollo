@@ -2,7 +2,7 @@
 
 **Apollo** is my custom keyboard layout for the programmable ZSA Moonlander keyboard. It uses the DVORAK layout as a base for the letters while using custom layer keys for symbols. It's designed to be comfortable to type on for coding, gaming, and media creation.
 
-Check out the layout on ZSA's [online configurator](https://configure.zsa.io/moonlander/layouts/gdQQ7/latest/0).
+Check out the layout on ZSA's [online configurator](https://configure.zsa.io/moonlander/layouts/gdQQ7/latest/0). <- This layout is marked private so I can't acces it. Can you make it public?
 
 ## The Layout
 
